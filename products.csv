@@ -16,7 +16,7 @@ id,brandId,model,description,quantity,price,screenSizeInch,ramGb,storageGb,color
 สภาพนางฟ้า 99% ไร้รอย แถมเคสแท้ 
 แบตอึดสุดๆ รองรับปากกา S-Pen
 อุปกรณ์ครบกล่อง ประกันศูนย์เหลือ 6 เดือน
-ส่งฟรี",6,39600,6.8,,512,
+ส่งฟรี",6,39600,6.8,null,512,null
 17,1,Galaxy S23+,Premium flagship model,8,33000,6.6,8,256,Cream
 18,1,Galaxy Z Fold4,สมาร์ทโฟนพับได้สุดล้ำ จอใหญ่เท่าแท็บเล็ต ทำงานได้หลากหลาย,3,59400,7.6,12,256,Phantom Green
 19,1,Galaxy Z Flip4,Compact foldable,5,33000,6.7,8,128,Bora Purple
@@ -31,7 +31,7 @@ id,brandId,model,description,quantity,price,screenSizeInch,ramGb,storageGb,color
 ชิป Dimensity 9200+ เร็วแรง
 กล้อง Leica ถ่ายรูปสวยขั้นเทพ
 มีที่ชาร์จ 120W ครบกล่อง
-จัดส่งฟรีทั่วประเทศ",6,23100,,12,,Alpine Blue
+จัดส่งฟรีทั่วประเทศ",6,23100,null,12,null,Alpine Blue
 33,3,POCO F5,มือถือสเปคเทพ เน้นเล่นเกม จอ 120Hz ราคาคุ้มค่า,10,13200,6.67,8,256,Carbon Black
 34,3,Redmi Note 12 Pro,กล้องคมชัด 108MP แบตอึด ชาร์จเร็ว ราคาโดนใจ,15,9900,6.67,8,128,Sky Blue
 35,3,12T Pro,Previous flagship,5,21450,6.67,8,256,Cosmic Black
