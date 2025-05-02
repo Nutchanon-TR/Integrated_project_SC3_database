@@ -1,7 +1,5 @@
-create database proj_sc3;
+create database if not exists proj_sc3;
 use proj_sc3;
-drop table products;
-drop table brand;
 CREATE TABLE IF NOT EXISTS Brand (
     id INT PRIMARY KEY AUTO_INCREMENT,
     name VARCHAR(30) NOT NULL UNIQUE CHECK (TRIM(name) <> ''),
@@ -31,10 +29,3 @@ CREATE TABLE IF NOT EXISTS products (
 );
 
 
-
-
-update products set stock = 100 where id = 1;
-select * from products where id=16;
-select * from brand;
-update products set color = null where id = 16;
-delete from products where id=5;
